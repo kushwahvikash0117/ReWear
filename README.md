@@ -25,12 +25,9 @@ ReWear is a full-stack MERN application that promotes sustainable fashion by ena
 
 **File Uploads:** Multer
 
-## 📂 Project Structure
+## 📂 Data Flow Diagram
 
-```bash
-frontend/   # React Frontend
-backend/    # Express Backend
-```
+<img width="1536" height="1024" alt="ReWear_Data_Flow_Diagram" src="https://github.com/user-attachments/assets/41fda453-0143-4b57-a454-514c8f8583bc" />
 
 ## ⚙️ Installation
 
